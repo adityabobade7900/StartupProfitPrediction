@@ -2,3 +2,5 @@ proenv/
 venv/
 env/
 __pycache__/
+proenv/
+*.pyc
